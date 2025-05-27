@@ -1,0 +1,18 @@
+{
+  "name": "dev.goreng.input",
+  "version": "0.0.1",
+  "displayName": "Input Event Framework",
+  "description": "Easy Event Subscriptions for the new Input Package",
+  "unity": "6000.0",
+  "unityRelease": "41f1",
+  "changelogUrl": "",
+  "dependencies": {
+    "dev.goreng.events": "1.3.0",
+    "com.unity.inputsystem": "1.13.1"
+  },
+  "author": {
+    "name": "Jason Meulenhoff",
+    "email": "nasi@goreng.dev",
+    "url": "https://packages.goreng.dev"
+  }
+}
