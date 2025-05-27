@@ -1,6 +1,6 @@
 {
   "name": "dev.goreng.input",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "displayName": "Input Event Framework",
   "description": "Easy Event Subscriptions for the new Input Package",
   "unity": "6000.0",
